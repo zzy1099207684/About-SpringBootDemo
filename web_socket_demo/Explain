@@ -1,0 +1,5 @@
+
+前提：理解mvc三层架构的书写习惯。
+这是个demo，纯java部分，
+测试用的 http://coolaf.com/tool/chattest 工具
+理解这个可以继续学习stomp协议了
